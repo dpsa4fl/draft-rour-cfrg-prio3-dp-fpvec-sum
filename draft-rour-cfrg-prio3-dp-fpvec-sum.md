@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Prio3 Instance for Centrally Differentially Private Sum of Fixed-Point Vectors with Bounded L2-Norm"
+abbrev: "prio3-dp-fpvec-sum"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-rour-cfrg-prio3-dp-fpvec-sum
 submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
 number:
 date:
