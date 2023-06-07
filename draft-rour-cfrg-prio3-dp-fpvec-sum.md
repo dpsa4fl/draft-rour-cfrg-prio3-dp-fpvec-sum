@@ -30,7 +30,7 @@ author:
  -
     fullname: Maxim Urschumzew
     email: "MxmUrw@users.noreply.github.com"
-    
+
 normative:
 
 informative:
