@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "IRTF"
+workgroup: "Crypto Forum"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Crypto Forum"
+  type: "Research Group"
+  mail: "cfrg@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/search/?email_list=cfrg"
+  github: "dpsa-project/draft-rour-cfrg-prio3-dp-fpvec-sum"
+  latest: "https://dpsa-project.github.io/draft-rour-cfrg-prio3-dp-fpvec-sum/draft-rour-cfrg-prio3-dp-fpvec-sum.html"
 
 author:
  -
