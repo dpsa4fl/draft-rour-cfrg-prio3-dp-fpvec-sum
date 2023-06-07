@@ -25,10 +25,12 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
+    fullname: Olivia Roehrig
+    email: "ooovi@users.noreply.github.com"
+ -
+    fullname: Maxim Urschumzew
     email: "MxmUrw@users.noreply.github.com"
-
+    
 normative:
 
 informative:
